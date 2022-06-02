@@ -2,6 +2,12 @@
 
 # DirectOrbits.jl
 
+This was the privately registered version of https://github.com/sefffal/PlanetOrbits.jl while it was in development.
+
+This page is retained for compatibility & history only.
+
+
+
 [![](https://img.shields.io/badge/docs-dev-blue.svg)](https://sefffal.github.io/DirectOrbits.jl/dev)
 [![codecov](https://codecov.io/gh/sefffal/DirectOrbits.jl/branch/master/graph/badge.svg?token=QLTCBWVV98)](https://codecov.io/gh/sefffal/DirectOrbits.jl)
 
